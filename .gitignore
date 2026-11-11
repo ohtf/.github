@@ -1,0 +1,9 @@
+# Disposable agent and browser-automation artefacts
+/.playwright-mcp
+/.playwright
+/playwright-report
+/blob-report
+/test-results
+
+# Local-only private workspace
+/.private
