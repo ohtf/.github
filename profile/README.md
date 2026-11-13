@@ -1,4 +1,4 @@
-<img src="https://openhealthtechnology.org/assets/ohtf-mark.svg" alt="" width="56" height="56" align="left">
+<img src="https://openhealthtechnology.org/assets/ohtf-avatar.svg" alt="" width="56" height="56" align="left">
 
 ## Open Health Technology Foundation
 
